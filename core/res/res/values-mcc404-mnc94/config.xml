@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_operatorConsideredNonRoaming">
+        <item>404</item>
+    </string-array>
+    <string-array name="config_sameNamedOperatorConsideredRoaming">
+        <item>40520</item>
+        <item>40442</item>
+        <item>40443</item>
+        <item>40544</item>
+        <item>40480</item>
+        <item>405840</item>
+        <item>405852</item>
+        <item>405871</item>
+        <item>405904</item>
+        <item>405922</item>
+        <item>405925</item>
+    </string-array>
+</resources>
